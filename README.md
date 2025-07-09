@@ -1,6 +1,5 @@
 # DeFtunes Data Pipeline Platform
 
-**Modern Data Lakehouse Architecture with Advanced Quality Orchestration**
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org/)
