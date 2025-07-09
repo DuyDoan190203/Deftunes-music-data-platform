@@ -365,9 +365,6 @@ This project demonstrates **production-ready data engineering expertise** throug
 - **Infrastructure Automation**: Complete Terraform infrastructure as code
 - **Business Intelligence**: Production-ready dashboards and analytics
 
-### 📞 Contact & Discussion
-
-Ready to discuss how these skills can benefit your organization's data initiatives. This project represents the kind of production-ready, scalable, and cost-effective data engineering solutions I deliver.
 
 ## 📜 License
 
@@ -382,4 +379,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Demonstrating production-ready data engineering capabilities through modern cloud-native architecture* 
