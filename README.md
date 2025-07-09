@@ -219,12 +219,12 @@ IsComplete "user_name"
 ### 🏆 Pipeline Execution Results
 
 **AWS Glue Job Execution:**
-![Glue Job Output](images/glue_job_task_output.png)
+![Glue Job Output](images/glue_job_task_output1.png)
 
 *Successful AWS Glue job execution with performance metrics*
 
 **Data Quality Validation:**
-![Data Quality Output](images/data_quality_task_output.png)
+![Data Quality Output](images/data_quality_task.png)
 
 *Automated data quality checks with validation results*
 
@@ -235,9 +235,6 @@ IsComplete "user_name"
 
 ### 📊 dbt Configuration & Modeling
 
-![dbt Configuration](images/dbt_config.png)
-
-*dbt project configuration and model structure*
 
 ## 💰 Cost Optimization
 
@@ -273,12 +270,15 @@ IsComplete "user_name"
 
 ### 📈 Apache Superset Dashboard Implementation
 
+
 **Superset Configuration:**
+
 ![Superset Configuration](images/superset_conf.png)
 
 *Apache Superset configuration for business intelligence dashboards*
 
 **Interactive Dashboard:**
+
 ![Superset Dashboard](images/superset_ui.png)
 
 *Production-ready business intelligence dashboard with real-time metrics*
@@ -286,11 +286,13 @@ IsComplete "user_name"
 ### 🗄️ Data Management & Catalog
 
 **Dataset Management:**
+
 ![Dataset Management](images/datasets_ui.png)
 
 *Comprehensive data catalog and dataset management interface*
 
 **Dataset Configuration:**
+
 ![Dataset Menu](images/dataset_menu.png)
 
 *Dataset configuration and metadata management*
